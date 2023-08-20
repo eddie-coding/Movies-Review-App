@@ -37,7 +37,7 @@
     align-items: center;
 }
 
-/* .movie-buttons-container{
+.movie-buttons-container{
     display:flex;
     justify-content: space-between;
     align-items: center;
@@ -68,4 +68,4 @@
         align-items: center;
         top:20px;
     }
-} */
+}
